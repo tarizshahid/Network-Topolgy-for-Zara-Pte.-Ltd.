@@ -20,8 +20,8 @@ Zara’s requirements as follows:
 
 3.	Additional Security and Application features can be added in, such as
 
-Password protection using administrative privileges
-Login and attempts protection
-SSH to access routers and switches
-Email, FTP services (optional)
-IPv6 
+         Password protection using administrative privileges
+         Login and attempts protection
+         SSH to access routers and switches
+         Email, FTP services (optional)
+         IPv6 
